@@ -12,7 +12,7 @@ This project is a face recognition-based attendance system using Python. It leve
 
 ### Packages
 
--pip install cmake
--pip install face_recognition
--pip install opencv-python
--pip install numpy
+- pip install cmake
+- pip install face_recognition
+- pip install opencv-python
+- pip install numpy
